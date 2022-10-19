@@ -36,14 +36,13 @@ The main learnings from this have been:
 
    *  For instance, deprecation from Infura (https://blog.infura.io/post/ipfs-public-api-and-gateway-deprecation) - September 2022
 
-#### How to use the code:
+How to use the code:
 
-##### Make sure to add from Infura the projectID and projectSecret in create-item.js
+  * Make sure to add from Infura the projectID and projectSecret in create-item.js
 
-##### Deploy the smart contract
+  * Deploy the smart contract
 
-##### Run a node (npx hardhat node)
+  * Run a node (npx hardhat node)
 
-##### Run the app (npm run dev)
-
+  * Run the app (npm run dev)
 
